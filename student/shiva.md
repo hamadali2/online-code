@@ -1,3 +1,3 @@
 # shiva
 - email:siva.....gmail.com
-- location:ongole
+- location:guntur
